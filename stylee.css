@@ -1,0 +1,32 @@
+h3{
+	margin-top: 100px;
+	margin-right: 150px;
+	margin-bottom: 100px;
+	margin-left: 150px;
+	border: 50px solid violet;
+	padding: 50px;
+}
+p{
+	font-size:18px;   
+    font-weight:italic;
+    color:seagreen;      
+    background-color:lightblue;  
+    border: dotted 10px black;
+    padding: 20px;
+    margin: 100px; 
+}
+h2{
+	border: double 10px cornflowerblue;
+    padding: 20px;
+    margin: 100px; 
+}
+h4{
+	content: left;
+}
+h5{
+	content: right;
+}
+h6{
+	content: center;
+}
+
